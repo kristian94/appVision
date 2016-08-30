@@ -1,11 +1,11 @@
-<Name>
+{Name}
 ======
 
 Description:
 ------------
-"<Name> is an geo based community app to collect your attainments out in the (real) world.
+{Name} is a geo based community app to collect your attainments out in the (real) world.
 Collect, share and show off what you have achieved.
-Explore the world laughing. collect all the medals"
+Explore the world laughing. collect all the medals
 
 Medals:
 -------
