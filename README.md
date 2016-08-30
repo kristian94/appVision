@@ -9,14 +9,16 @@ Explore the world laughing. collect all the medals
 
 Medals:
 -------
-- Custom/Community created (like a concert/festival?) = bronze
-- Google maps attractions(bigger attractions?) = silver
+- Custom/Community created (like a concert/festival) = bronze
+- Google maps attractions(bigger attractions) = silver
 - Country (every country visited) = gold
-- All in country(/city?) = platinum
+- All in country(city) = platinum
 
 Achievements(give points?):
 ---------------------------
-- see world 7 wonders. (1 then 7?)
-- attend 1 event; then 25?; 100?; 500?
+- see world 7 wonders. (1 then 7)
+- attend 1 event; then 25; 100; 500
 - climb a mountain
 - visit all continents
+
+### {Name}© is Bonier registered trademark. Infringment of this right will result in legal action. 
